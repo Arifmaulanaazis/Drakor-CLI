@@ -19,7 +19,7 @@
 
 ## Cara Menggunakan
 
-1. **Unduh aplikasi**: Download archive `Drakor CLI Windows Portable V1.0.0.zip` dari [Release Page](https://github.com/Arifmaulanaazis/Drakor-CLI/releases/latests) di GitHub.
+1. **Unduh aplikasi**: Download archive `Drakor CLI Windows Portable V1.0.0.zip` dari [Release Page](https://github.com/Arifmaulanaazis/Drakor-CLI/releases/latest) di GitHub.
 2. **Ekstrak file**: Ekstrak file ZIP yang telah diunduh.
 3. **Jalankan aplikasi**: Buka folder hasil ekstraksi dan klik dua kali pada `drakor_CLI.exe` untuk menjalankan aplikasi melalui terminal atau command prompt.
 4. **Masukkan kata kunci**: Ketik kata kunci untuk mencari judul drama Korea yang Anda inginkan.
